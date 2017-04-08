@@ -7,5 +7,5 @@ c=(N*i*A)/(lg)
  
 Hc=(N*i)/(lc)
 
-// ignore below
-// test 
+// test2
+
