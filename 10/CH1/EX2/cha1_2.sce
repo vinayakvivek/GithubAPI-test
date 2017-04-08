@@ -8,3 +8,4 @@ c=(N*i*A)/(lg)
 Hc=(N*i)/(lc)
 
 // test2
+
